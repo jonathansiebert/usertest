@@ -8,7 +8,7 @@
             document.getElementById("id_last_name").value = "{{ user.last_name }}";
             var div = document.createElement('div');
             div.innerHTML = "{{ user.email }}";
-            var decoded = div.firstChild.nodeValue;alert(decoded);
+            var decoded = div.firstChild.nodeValue;
             document.getElementById("id_email").value = decoded;
         }
     </script>
