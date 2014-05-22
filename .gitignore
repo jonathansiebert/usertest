@@ -3,3 +3,6 @@ venv
 *.cpython-34.pyc
 staticfiles
 mysite/__pycache__
+usertest/__pycache__/forms.cpython-34.pyc
+
+usertest/__pycache__/views.cpython-34.pyc
