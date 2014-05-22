@@ -1,0 +1,5 @@
+venv
+*.pyc
+*.cpython-34.pyc
+staticfiles
+mysite/__pycache__
